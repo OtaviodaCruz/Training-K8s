@@ -54,7 +54,7 @@ Obs.: Também e possivel utilizar o comando ```kubectl autoscale deployment php-
 
 ```kubectl get hpa php-apache --watch```
 
-Referência: [kubernetes.io]([htpps://kubernetes.io/docs/tasks/run-application/horizontal-pod-autoscale-walkthrough/](https://kubernetes.io/docs/tasks/run-application/horizontal-pod-autoscale-walkthrough/))
+Referência: [kubernetes.io](https://kubernetes.io/docs/tasks/run-application/horizontal-pod-autoscale-walkthrough/)
 
 
 
