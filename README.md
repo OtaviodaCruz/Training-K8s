@@ -9,6 +9,8 @@ K8s utiliza arquivos de configuração YAML.
 
 ## Contém 
 
+Por enquanto está sendo utilizado containers ubuntu como forma de exemplificar os conceitos
+
 - ubuntu_deploy.yaml: implementa o conceito de Deploymente com replicas.
 - ubuntu_with_scaling.yaml: implementa o conceito de scaling a partir do consumo de CPU.
 
